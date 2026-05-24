@@ -19,7 +19,7 @@ When reporting, please include where relevant:
 - Steps to reproduce, or a proof of concept, if available.
 - Any suggested remediation.
 
-## Coordinated Disclosure
+## Coordinated Disclosure   
 
 We follow a coordinated disclosure approach:
 
